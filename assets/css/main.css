@@ -1584,7 +1584,7 @@
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out, background-color 0.2s ease-in-out;
-		color: #68c9ea;
+		color: #44B6DC;
 		text-decoration: none;
 		border-bottom: dotted 1px;
 	}
@@ -1746,7 +1746,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #68c9ea;
+			border-color: #44B6DC;
 		}
 
 	input[type="text"],
@@ -2112,7 +2112,7 @@
 		}
 
 		.wrapper.style2 {
-			background-color: #68c9ea;
+			background-color: #44B6DC;
 			/* background-image: url("images/light-bl.svg"), url("images/light-br.svg"); */
 			background-position: bottom left, bottom right;
 			background-repeat: no-repeat, no-repeat;
@@ -2372,7 +2372,7 @@
 			}
 
 			.dropotron > li:hover > a {
-				background: #68c9ea;
+				background: #44B6DC;
 				color: #fff;
 			}
 
@@ -3342,7 +3342,7 @@
 .people .front {
     z-index: 4;
     background-size: contain;
-    background-color: #68c9ea
+    background-color: #444444;
 }
 .people .front .overlay {
     width: 100%;
